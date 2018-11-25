@@ -1,2 +1,65 @@
-# knigopoisk
+# KnigoPoisk
 Find your book
+
+## Ideas
+- Roles
+  - `Admin` -- **CRUD** with entities, administration, 
+  reviews approvals, etc.
+    - Add own reviews
+    - Approve `User's` reviews
+    - Ban `Users`
+    - Check reviews
+    - Remove reviews
+    - Edit reviews (remove profanity, politician aspects)
+    - Send warning emails / messages to `Users`
+  - User -- **READ/WRITE** access, authentication, reviews, chatting, wishlist, etc.
+    - Add reviews
+    - Add books to wishlists
+    - Chatting (forum?)
+    - Rate to books
+    - History (what is read) / Timeline
+    - Search by categories
+  - Client -- **READ/FIND** access
+    - Search for books by categories
+    - View ratings (e.g. `TOP-500`) 
+- Review mechanism
+  - `Admin`
+    - Approve the reviews
+    - Ban users that have troubles with reviews / chats
+    - Block users for 1 month / 15 days / forever (?)
+  - `Users`
+    - Can create reviews / apply for approval
+    - Can be banned for review contents
+  - `Client`
+    - Cannot create reviews / read-only mode   
+- Online reading
+  - Links to Google books
+  - Links to Amazon (to download to Kindle)
+- Screen version(s) is any
+  - Links to IMDB and Kinopoisk
+- Localization / internationalization (2 languages ?)
+- Any audiobooks available for this book (what languages ?)
+- Links to other web resources (Wiki, Kinopoisk, etc.) -- Admin?
+- Relevant/similar books (genre)
+- News
+- Quotes
+  - User's own quotes (favourites)
+  - Wiki-quotes
+- Random suggestions
+  - Carousel with books that a user can find useful/must read
+- Cover
+  - Page examples
+- Youtube links to reviews and ratings
+- Theaters
+- Forum ?
+- Ratings
+    - Top-500
+    - Top by rating
+    - Mostly reviewed
+    - Mostly read
+    - ...
+- Wishlists
+  - Add / edit / remove wishlists
+    - Profanity checks
+    - Attacks checks (SQL injections, another kinds of code that can break us)
+    - Localization (?)

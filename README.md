@@ -42,6 +42,9 @@ Find your book
 - Links to other web resources (Wiki, Kinopoisk, etc.) -- Admin?
 - Relevant/similar books (genre)
 - News
+- Authors and biographies
+- Color themes
+- Font sizes
 - Quotes
   - User's own quotes (favourites)
   - Wiki-quotes

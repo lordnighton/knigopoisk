@@ -68,3 +68,40 @@ Find your book
     - Profanity checks
     - Attacks checks (SQL injections, another kinds of code that can break us)
     - Localization (?)
+
+## Technological stack
+- Crossbrowsing
+  - Bootstrap 4
+- IDE
+  - IntelliJ IDEA (Community edition)
+  - Visual Studio Code
+- CI
+  - Jenkins / TeamCity / No
+- Docker
+- Build framework
+  - Gradle
+- Backend implementation frameworks
+  - Spring (Boot)
+  - Spring MVC
+  - Spring Security
+- Validation
+  - Hibernate validator
+  - Spring MVC OOTB means
+- Tests
+  - Unit (JUnit, Mockiton, Hamcrest matchers)
+  - Integration tests (RESTAssured)
+  - UI (?)
+- ORM / Spring Data (Mongo)
+- Environments
+  - LOCAL / QA / PROD
+- VCS
+  - Git
+- UI
+  - React | VueJS
+  - Yarn
+  - JavaScript
+  - JQuery
+- DB
+  - MongoDB
+- Content
+  - Images -- ? (hosting / Docker volume / Akamai)

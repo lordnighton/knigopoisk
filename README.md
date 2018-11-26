@@ -1,3 +1,5 @@
+![books](https://user-images.githubusercontent.com/42194815/48988631-dfaecd80-f0fc-11e8-82ec-6737a7880e72.png)
+
 # KnigoPoisk
 Find your book
 
@@ -42,6 +44,9 @@ Find your book
 - Links to other web resources (Wiki, Kinopoisk, etc.) -- Admin?
 - Relevant/similar books (genre)
 - News
+- Authors and biographies
+- Color themes
+- Font sizes
 - Quotes
   - User's own quotes (favourites)
   - Wiki-quotes
@@ -63,3 +68,47 @@ Find your book
     - Profanity checks
     - Attacks checks (SQL injections, another kinds of code that can break us)
     - Localization (?)
+
+## Project management methodology
+- Agile SCRUM
+
+## Technological stack
+- Crossbrowsing / UI / markup
+  - Bootstrap 4
+- IDE
+  - IntelliJ IDEA (Community edition)
+  - Visual Studio Code
+- CI
+  - Jenkins / TeamCity / No
+- Docker
+- Build framework
+  - Gradle
+- Backend implementation frameworks
+  - Spring (Boot)
+  - Spring MVC
+  - Spring Security
+- Validation
+  - Hibernate validator
+  - Spring MVC OOTB means
+- Tests
+  - Unit (JUnit, Mockito, Hamcrest matchers)
+  - Integration tests (RESTAssured)
+  - UI (?)
+- ORM / Spring Data (Mongo)
+- Environments
+  - LOCAL / QA / PROD
+- VCS
+  - Git
+- UI
+  - React | VueJS
+  - Yarn
+  - JavaScript
+  - JQuery
+- DB
+  - MongoDB
+- Content
+  - Images -- ? (hosting / Docker volume / Akamai)
+  
+## Wireframes
+- Main page
+![mainpage](https://user-images.githubusercontent.com/42194815/48996512-cae53080-f122-11e8-81bd-57ed6de70886.png)

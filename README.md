@@ -69,8 +69,11 @@ Find your book
     - Attacks checks (SQL injections, another kinds of code that can break us)
     - Localization (?)
 
+## Project management methodology
+- Agile SCRUM
+
 ## Technological stack
-- Crossbrowsing
+- Crossbrowsing / UI / markup
   - Bootstrap 4
 - IDE
   - IntelliJ IDEA (Community edition)

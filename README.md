@@ -108,3 +108,7 @@ Find your book
   - MongoDB
 - Content
   - Images -- ? (hosting / Docker volume / Akamai)
+  
+## Wireframes
+- Main page
+![mainpage](https://user-images.githubusercontent.com/42194815/48996512-cae53080-f122-11e8-81bd-57ed6de70886.png)

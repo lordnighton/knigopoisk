@@ -91,7 +91,7 @@ Find your book
   - Hibernate validator
   - Spring MVC OOTB means
 - Tests
-  - Unit (JUnit, Mockiton, Hamcrest matchers)
+  - Unit (JUnit, Mockito, Hamcrest matchers)
   - Integration tests (RESTAssured)
   - UI (?)
 - ORM / Spring Data (Mongo)

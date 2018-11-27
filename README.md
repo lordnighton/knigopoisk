@@ -99,6 +99,8 @@ Find your book
   - LOCAL / QA / PROD
 - VCS
   - Git
+- Client / Server architecture
+- OAuth 2.0 (?)
 - UI
   - React | VueJS
   - Yarn
